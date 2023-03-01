@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+header{
+    height: 60px;
+    background-color: red;
+}
+header .grid-layout{
+    margin: 0 auto;
+    width: 80%;
+}
+header nav{
+    display: flex;
+    justify-content: right;
+    
+}
+header nav a{
+    color: white;
+}
