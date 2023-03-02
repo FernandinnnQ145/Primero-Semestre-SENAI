@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Fernando Quatrochi";
+    src: url(../assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+
 *{
     margin: 0%;
     padding: 0%;
@@ -11,15 +17,34 @@ header{
     height: 60px;
     background-color: red;
 }
-header .grid-layout{
+.grid-layout{
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
+    max-width: 1200px;
+    height: 100%;
+}
+.header-flex{
+    justify-content: flex-end;
+    display: flex;
+    align-items: center; 
 }
 header nav{
     display: flex;
-    justify-content: right;
-    
+    justify-content: space-between;
+    width: 600px;
 }
 header nav a{
     color: white;
+    font-family: "Fernando Quatrochi";
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    border: 1px solid white;
+    letter-spacing: 2px;
 }
+header nav a:hover {
+    background-color: white;
+    color: red;
+}
+
+
