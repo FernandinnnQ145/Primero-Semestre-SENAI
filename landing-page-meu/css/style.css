@@ -1,0 +1,184 @@
+@font-face {
+    font-family: "Fernando Quatrochi";
+    src: url(../assets_/fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #080324;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+header #menu-hamburger {
+    display: none;
+}
+
+header {
+    height: 60px;
+    background-color: #F9003D;
+}
+
+.grid-layout {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    height: 100%;
+}
+
+.header-flex {
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+
+header nav a {
+    color: white;
+    font-family: "Fernando Quatrochi";
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    letter-spacing: 2px;
+}
+
+header nav a:hover {
+    background-color: white;
+    color: #F9003D;
+    transition: 10s;
+}
+
+/* Main */
+main .banner {
+    width: 100%;
+    height: 740px;
+    color: white;
+
+    background-image: url(../assets_/imagens/imagem-fundo-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+main .banner-flex {
+    display: flex;
+    align-items: center;
+}
+
+main #banner-info {
+    width: 550px;
+}
+
+main h1 {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    font-family: "Fernando Quatrochi";
+    font-size: 96px;
+    border-bottom: 2px solid #FFAF00;
+}
+
+main article p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 53px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #F9003D;
+}
+
+/* section */
+
+.sobre {
+    padding: 60px 0;
+}
+
+section .sobre-flex {
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+}
+
+.sobre .sobre-flex .sobre-box {
+    width: 500px;
+}
+
+.sobre .sobre-flex .participantes {
+    width: 640px;
+}
+
+section h2 {
+    color: #F9003D;
+    font-size: 64px;
+    font-family: "Fernando Quatrochi";
+    margin-bottom: 40px;
+}
+
+.sobre .sobre-flex .participantes h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.sobre .sobre-flex .participantes h4 {
+    font-family: "Fernando Quatrochi";
+    margin-bottom: 20px;
+    font-size: 64px;
+    color: #FFAF00;
+}
+
+.sobre .sobre-flex .participantes p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+
+
+/* smartphone */
+@media screen and (max-width: 767px) {
+    main {
+        display: none;
+    }
+
+
+    header #menu-hamburger {
+        display: block;
+    }
+
+    header nav{
+        position: fixed;
+        top: 60px;
+        left: 0;
+        width: 80vw;
+        max-width: 360px;
+        height: 100vh;
+
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: #FFAF00;
+    }
+
+    header nav a{
+        width: 150px;
+        margin-bottom: 30px;
+        border-left: 2px solid white;
+        border-radius: 0;
+        font-size: 24px;
+        text-shadow: 3px 3px 7px black;
+    }
+    header nav a :hover{
+        background-color: white;
+        color: #FFAF00;
+    }
+}

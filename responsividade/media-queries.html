@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: rgb(44, 41, 41);
+        }
+        /* mobile first >= 0px*/
+        h1 {
+            color:red
+            
+        }
+        a{
+            color: orange;
+        }
+        /* tablet >= 768px */
+        @media screen and (min-width: 768px){
+            h1 {
+                text-align: center;
+                color: aqua;
+            }
+            a{
+                text-align: left;
+                color: rgb(156, 136, 7);
+            }
+        }
+
+        /* desktops >= 992px */
+        @media screen and (min-width: 992px) {
+            h1{
+                color: green;
+            }
+            a{
+                text-align: left;
+                color: yellow
+            }
+        }
+        /* notebooks >= 1200px */
+        @media screen and (min-width: 1200px) {
+            h1{
+                color: purple;
+            }
+            h1:hover{
+                background-color: white;
+                color: purple;
+                text-shadow: 2px 2px 7px black;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Titulo da pagina</h1>
+    <a href="">Sobre</a>
+</body>
+</html>
