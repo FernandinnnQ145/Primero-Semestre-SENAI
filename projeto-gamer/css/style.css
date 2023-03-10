@@ -7,11 +7,43 @@
     box-sizing: border-box;
 }
 
+.grid-layout{
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+}
+.alinhamento-between-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 body{
 
     color: white;
 }
 
+/* mobile first */
+
+
 header{
+    height: 60px;
     background-color: #1B1426;
+}
+header .header-top{
+    display: none;
+}
+header nav{
+    position: fixed;
+    top: 60px;
+    left: 0;
+    width: 80vw;
+    height: 100vw;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+header .icones-header-bottom{
+    display: none;
 }
