@@ -1,4 +1,9 @@
 /* imports de fonts */
+@font-face {
+    font-family: inter;
+    src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+
 
 /* reset css */
 *{
@@ -33,17 +38,65 @@ header{
 header .header-top{
     display: none;
 }
-header nav{
+
+
+header .header-bottom{
+    height: 60px;
+}
+
+
+header .logo{
+    width: 86px;
+}
+
+
+header .icones-header-bottom{
+    display: none;
+}
+
+
+header .header-bottom nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
     position: fixed;
     top: 60px;
     left: 0;
     width: 80vw;
-    height: 100vw;
-    background-color: grey;
+    height: calc(100vh - 60px
+    );
+    background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
+    backdrop-filter: blur(45px);
+}
+
+header .header-bottom nav > a{
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    padding: 30px 0;
+    color: white;
+    text-decoration: none;
+    font-family: inter;
+    font-size: 15px;
+    border-bottom: 1px solid #F9AA01;
 }
-header .icones-header-bottom{
-    display: none;
+
+header .header-bottom nav a:last-of-type{
+    border-bottom: none;
 }
+header .midias-digitais{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 65px;
+    margin-bottom: 42px;
+}
+
+
+
+
+
