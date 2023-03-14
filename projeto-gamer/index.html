@@ -18,12 +18,20 @@
             <div class="grid-layout">
                 <div class="contatos">
                     <div class="phone">
+
                         <img src="assets/icons/icone-telefone.svg" alt="icone do telefone de contato">
+
                         <p>(11) 0900-1010</p>
+
                     </div>
+
+
                     <div class="email">
+
                         <img src="assets/icons/icone-email.svg" alt="icone do email de contato">
+
                         <p>contato@gamer.com.br</p>
+
                     </div>
 
                 </div>
@@ -50,16 +58,17 @@
             <div class="grid-layout alinhamento-between-center">
                 <!-- smatphone -->
                 <!--menu hamburger -->
-                <img src="assets/icons/bars.svg" alt="icone de telefone. Abre e fecha o menu principal, no celular">
+                <img onclick="mostraMenu()" src="assets/icons/bars.svg"
+                    alt="icone de telefone. Abre e fecha o menu principal, no celular">
 
 
                 <!-- desktop -->
-                
-                    <img class="logo" src="assets/imagem/logotipo-gamer.svg" alt="Logo da empresa">
-               
+
+                <img class="logo" src="assets/imagem/logotipo-gamer.svg" alt="Logo da empresa">
 
 
-                <nav class="menu">
+
+                <nav class="menu" id="menu">
                     <a href="">inicio</a>
                     <a href="">jogadores</a>
                     <a href="">equipes</a>
@@ -70,7 +79,7 @@
                     <!-- visivel apenas no mobile -->
                     <a class="phone">
                         <img src="assets/icons/icone-telefone.svg" alt="icone do telefone de contato">
-                        
+
                         <p>(11) 0900-1010</p>
                     </a>
 
@@ -108,25 +117,50 @@
                 <!-- smatphone -->
 
                 <!-- menu 3 pontinhos -->
-                <img src="assets/icons/3-pontinhos.svg" alt="icone 3 pontinhos, abre e fecha o menu do usuario">
+                <img onclick= "mostrarMenuUsuario()" src="assets/icons/3-pontinhos.svg" alt="icone 3 pontinhos, abre e fecha o menu do usuario">
 
 
 
                 <!-- desktop -->
-                <div class="icones-header-bottom">
-                    <a href="">
-                        <img src="assets/icons/icone-perfil.svg" alt="icone de perfil para o usuario">
-                    </a>
-                    <a href="">
-                        <img src="assets/icons/icone-bag.svg" alt="icone de bolsa para compra">
-                    </a>
-                    <a href="">
-                        <img src="assets/icons/icone-busca.svg" alt="icone lupa de pesquisa">
-                    </a>
-                </div>
+               
+                    <div class="icones-header-bottom" id="icones-laterais">
+                        <a href="">
+                            <img src="assets/icons/icone-perfil.svg" alt="icone de perfil para o usuario">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/icone-bag.svg" alt="icone de bolsa para compra">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/icone-busca.svg" alt="icone lupa de pesquisa">
+                        </a>
+                    </div>
+              
             </div>
         </div>
     </header>
+
+
+    <main>
+        <div class="banner-mobille">
+        </div>
+
+
+        <div class="banner">
+        </div>
+        <h1>Liga gamer</h1>
+        <h2>Sobre</h2>
+    </main>
+
+
+    <script>
+        function mostraMenu() {
+            document.getElementById("menu").classList.toggle("mostrar-menu");
+        }
+
+        function mostrarMenuUsuario() {
+            document.getElementById("icones-laterais").classList.toggle("mostrar-menu-usuario")
+        }
+    </script>
 </body>
 
 </html>
