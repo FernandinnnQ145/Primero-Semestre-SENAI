@@ -2,6 +2,15 @@
 @font-face {
     font-family: inter;
     src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+
+}
+@font-face {
+    font-family: titi;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
+}
+@font-face {
+    font-family: titi-bold;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
 }
 
 
@@ -45,6 +54,7 @@ header{
     height: 60px;
     z-index: 100;
     background-color: #1B1426;
+    top: 0;
 }
 header .header-top{
     display: none;
@@ -126,16 +136,73 @@ header .midias-digitais{
 }
 
 /* main */
-.banner-mobille{
+main .banner-mobille{
     background-image: url(../assets/imagem/valorant-pergunte-3-scaled\ 1.png);
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
     background-position: bottom;
+    background-size: cover;
+    height: 605px;
     width: 100%;
-    height: calc(100vh - 60px
-    );
-
+    margin-top: 60px;
 }
 
+
+
+
+
+
+main .banner-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 517px;
+}
+main h1{
+    font-family: titi;
+    color: FFFFFF;
+    font-size: 40px;
+    text-shadow: 2px 2px 7px red;
+    
+}
+main h2{
+    color: #1B1426;
+    font-size: 24;
+    font-family: titi-bold;
+   
+}
+main .caixa-sobre{
+    width: 169px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9AA01;
+    border-radius: 8px;
+}
+
+
+
+/* section */
+
+main .jogos{
+    background-color: #1B1426;
+    height: 590px;
+}
+
+main section .layout-jogos{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+@media screen and {
+    
+}
 
 
 
