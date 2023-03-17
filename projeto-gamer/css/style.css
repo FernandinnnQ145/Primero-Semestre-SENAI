@@ -4,10 +4,12 @@
     src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
 
 }
+
 @font-face {
     font-family: titi;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
 }
+
 @font-face {
     font-family: titi-bold;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
@@ -15,32 +17,33 @@
 
 
 /* reset css */
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.grid-layout{
+.grid-layout {
     width: 90%;
     margin: 0 auto;
     height: 100%;
 }
 
-.mostrar-menu{
-    left: 0!important;
-}
-.mostrar-menu-usuario{
-    right: 0!important;
+.mostrar-menu {
+    left: 0 !important;
 }
 
-.alinhamento-between-center{
+.mostrar-menu-usuario {
+    right: 0 !important;
+}
+
+.alinhamento-between-center {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-body{
+body {
 
     color: white;
 }
@@ -48,7 +51,7 @@ body{
 /* mobile first */
 
 
-header{
+header {
     position: fixed;
     width: 100vw;
     height: 60px;
@@ -56,23 +59,24 @@ header{
     background-color: #1B1426;
     top: 0;
 }
-header .header-top{
+
+header .header-top {
     display: none;
 }
 
 
-header .header-bottom{
+header .header-bottom {
     height: 60px;
 }
 
 
-header .logo{
+header .logo {
     width: 86px;
 }
 
 
-header .icones-header-bottom{
-    width: 20vw ;
+header .icones-header-bottom {
+    width: 20vw;
     height: 170px;
     top: 60px;
     right: -20vw;
@@ -90,7 +94,7 @@ header .icones-header-bottom{
 
 
 
-header .header-bottom nav{
+header .header-bottom nav {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -100,15 +104,14 @@ header .header-bottom nav{
     top: 60px;
     left: -80vw;
     width: 80vw;
-    height: calc(100vh - 60px
-    );
+    height: calc(100vh - 60px);
     background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
     backdrop-filter: blur(45px);
     transition: 0.9s;
 }
 
 
-header .header-bottom nav > a{
+header .header-bottom nav>a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -124,10 +127,11 @@ header .header-bottom nav > a{
 
 
 
-header .header-bottom nav a:last-of-type{
+header .header-bottom nav a:last-of-type {
     border-bottom: none;
 }
-header .midias-digitais{
+
+header .midias-digitais {
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -136,7 +140,7 @@ header .midias-digitais{
 }
 
 /* main */
-main .banner-mobille{
+main .banner-mobille {
     background-image: url(../assets/imagem/valorant-pergunte-3-scaled\ 1.png);
     background-repeat: no-repeat;
     background-position: bottom;
@@ -151,27 +155,34 @@ main .banner-mobille{
 
 
 
-main .banner-info{
+main .banner-info-mobille {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     height: 517px;
 }
-main h1{
+
+.banner {
+    display: none;
+}
+
+main h1 {
     font-family: titi;
     color: FFFFFF;
     font-size: 40px;
     text-shadow: 2px 2px 7px red;
-    
+
 }
-main h2{
+
+main h2 {
     color: #1B1426;
     font-size: 24;
     font-family: titi-bold;
-   
+
 }
-main .caixa-sobre{
+
+main .caixa-sobre {
     width: 169px;
     height: 40px;
     display: flex;
@@ -181,16 +192,20 @@ main .caixa-sobre{
     border-radius: 8px;
 }
 
+main .caixa-sobre:hover {
+    box-shadow: 2px 2px 10px black;
+}
+
 
 
 /* section */
 
-main .jogos{
+main .jogos {
     background-color: #1B1426;
     height: 590px;
 }
 
-main section .layout-jogos{
+main section .layout-jogos {
     justify-content: space-evenly;
     display: flex;
     flex-direction: column;
@@ -200,10 +215,171 @@ main section .layout-jogos{
 
 
 
-@media screen and {
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {}
+
+/* Desktop >= 1200px*/
+@media screen and (min-width: 1200px) {
+
+    .layout-grid {
+        width: 100%;
+        max-width: 1200px;
+    }
+
+    /* header */
+    header {
+        position: static;
+        height: 140px;
+        width: 100%;
+    }
+
+    header .header-top {
+        display: block;
+        border-bottom: 2px solid #F9AA01;
+        height: 50px;
+        width: 100%;
+    }
+
+    header .header-top .contatos {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 450px;
+        font-family: inter;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    /* divs .phone, .mail */
+    header .header-top .contatos>div {
+        display: flex;
+        gap: 10px;
+        width: 200px;
+        align-items: center;
+
+    }
+
+
+    header .header-top .midias-sociais {
+        width: 140px;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+
+    header .midias-digitais{
+        margin: 0 0
+    }
+
+    /* esconde os elementos desnecessários */
+    .header-bottom .menu-hamburger,
+    header .header-bottom .tres-pontinhos,
+    header .header-bottom nav .phone,
+    header .header-bottom nav .email,
+    header .header-bottom nav .midias-digitais {
+        display: none;
+    }
+
+    header .header-bottom {
+        height: 92px;
+
+    }
+
+    header .logo {
+        width: 200px;
+    }
+
+    header .header-bottom nav {
+        position: static;
+        width: 440px;
+        height: 50px;
+        padding-bottom: 0;
+        flex-direction: row;
+        align-items: center;
+        /* background-color: red; */
+        justify-content: space-between;
+        transition: none;
+    }
+
+    header .header-bottom nav>a {
+        font-size: 14px;
+        padding: 0;
+        border: none;
+    }
+
+    header .header-bottom .icones-header-bottom {
+        position: static;
+        width: 140px;
+        flex-direction: row;
+        height: auto;
+        background-color: transparent;
+        background-image: none;
+        transition: none;
+        justify-content: space-between;
+    }
+
+    header .header-top .contatos img {
+        width: 25px;
+        height: 25px;
+    }
+
+
+    main {
+        margin-top: 0;
+    }
+
+    .banner-mobille {
+        display: none;
+    }
+
+    main .banner {
+        display: block;
+        background-image: url(../assets/imagem/Banner_background_1.png);
+        background-position: bottom;
+        width: 100%;
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        height: 720px;
+        margin-top: 0;
+
+    }
+
+
+.banner-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 600px
+}
+
+section .jogos{
+    height: 497px;
 }
 
 
+main .jogos .layout-jogos {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
 
+main .jogos img {
+    width: 556px;
+    height: 313px;
+}
 
+}
