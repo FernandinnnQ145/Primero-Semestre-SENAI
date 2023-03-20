@@ -139,77 +139,32 @@ header .midias-digitais {
     margin-bottom: 42px;
 }
 
-/* main */
-main .banner-mobille {
-    background-image: url(../assets/imagem/valorant-pergunte-3-scaled\ 1.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: cover;
-    height: 605px;
-    width: 100%;
+
+
+main{
     margin-top: 60px;
+    height: 687px;
+
+    background-image: url(../assets/imagem/Banner_Login.png);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 
-
-
-
-
-
-main .banner-info-mobille {
-    display: flex;
-    flex-direction: column;
+.login {
+    height: 462px;
+    border: 2px solid red;
+    position: relative;
+    top: 86px;
+}
+.login h1{
+    position: relative;
+    top: 48px;
     align-items: center;
-    justify-content: space-between;
-    height: 517px;
-}
-
-.banner {
-    display: none;
-}
-
-main h1 {
-    font-family: titi;
-    color: FFFFFF;
-    font-size: 40px;
-    text-shadow: 2px 2px 7px red;
-
-}
-
-main a {
-    color: #1B1426;
-    font-size: 24px;
-    font-family: titi-bold;
-    text-decoration: none;
-
-}
-
-main .caixa-sobre {
-    width: 169px;
-    height: 40px;
-    display: flex;
+    width: 90px;
+    border-top: 2px solid #F9AA01;
     justify-content: center;
-    align-items: center;
-    background-color: #F9AA01;
-    border-radius: 8px;
-}
-
-main .caixa-sobre:hover {
-    box-shadow: 2px 2px 10px black;
-}
-
-
-
-/* section */
-
-main .jogos {
-    background-color: #1B1426;
-    height: 590px;
-}
-
-main section .layout-jogos {
-    justify-content: space-evenly;
     display: flex;
-    flex-direction: column;
 }
 
 
@@ -219,17 +174,6 @@ main section .layout-jogos {
 
 
 
-
-
-
-
-
-
-
-
-
-
-@media screen and (min-width: 768px) {}
 
 /* Desktop >= 1200px*/
 @media screen and (min-width: 1200px) {
@@ -334,90 +278,5 @@ main section .layout-jogos {
     header .header-top .contatos img {
         width: 25px;
         height: 25px;
-    }
-
-
-    main {
-        margin-top: 0;
-    }
-
-    .banner-mobille {
-        display: none;
-    }
-
-    main .banner {
-        display: block;
-        background-image: url(../assets/imagem/Banner_background_1.png);
-        background-position: bottom;
-        width: 100%;
-        background-size: cover;
-        background-position: bottom;
-        background-repeat: no-repeat;
-        height: 720px;
-        margin-top: 0;
-
-    }
-
-
-    .banner-info {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-        height: 600px
-    }
-
-    main .jogos {
-        height: 500px;
-    }
-
-
-    main .jogos .layout-jogos {
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    main .jogos img {
-        width: 556px;
-        height: 313px;
-    }
-
-
-
-
-
-
-
-    main .parte-convite {
-        height: 1000px;
-        width: 100%;
-        background-color: #F9AA01;
-        padding-top: 85px;
-    }
-
-
-    .parte-convite h2 {
-        font-family: tit;
-        font-size: 40px;
-        color: #1B1426;
-    }
-
-    .borda-pequena {
-        width: 199px;
-        height: 35px;
-        border-bottom: 2px solid #1B1426;
-
-    }
-
-    .parte-convite .box-h2 {
-        width: 100%;
-        height: 96px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-
-
     }
 }
