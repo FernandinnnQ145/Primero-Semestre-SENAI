@@ -6,13 +6,18 @@
 }
 
 @font-face {
-    font-family: titi;
+    font-family: titi-black;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
 }
 
 @font-face {
     font-family: titi-bold;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
+}
+
+@font-face {
+    font-family: titi-regular ;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
 
@@ -168,7 +173,7 @@ main .banner-info-mobille {
 }
 
 main h1 {
-    font-family: titi;
+    font-family: titi-black;
     color: FFFFFF;
     font-size: 40px;
     text-shadow: 2px 2px 7px red;
@@ -398,7 +403,7 @@ main section .layout-jogos {
 
 
     .parte-convite h2 {
-        font-family: tit;
+        font-family: tit-black;
         font-size: 40px;
         color: #1B1426;
     }

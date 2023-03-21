@@ -6,13 +6,18 @@
 }
 
 @font-face {
-    font-family: titi;
+    font-family: titi-black;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
 }
 
 @font-face {
     font-family: titi-bold;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
+}
+
+@font-face {
+    font-family: titi-regular ;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
 
@@ -146,26 +151,102 @@ main{
     height: 687px;
 
     background-image: url(../assets/imagem/Banner_Login.png);
-    background-size: contain;
+    background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
 }
 
 .login {
     height: 462px;
-    border: 2px solid red;
     position: relative;
     top: 86px;
+    background-image: linear-gradient(to right, rgba(27, 20, 38, 0.6), rgba(27, 20, 38, 0.6));
 }
-.login h1{
+.login .caixa-login{
     position: relative;
     top: 48px;
     align-items: center;
-    width: 90px;
-    border-top: 2px solid #F9AA01;
     justify-content: center;
     display: flex;
 }
+.login h1{
+    font-family: titi-black;
+    font-size: 24px;
+    border-top: 2px solid #F9AA01;
+ 
+
+}
+
+
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 101px;
+    flex-direction: column;
+    gap: 31px;
+}
+
+form .escrever-email, .escrever-senha{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 273px;
+    height: 40px;
+    background-image: linear-gradient(to right bottom, rgba(239, 239, 239, 0.6), rgba(239, 239, 239, 0.1));
+    padding: 5px 10px;
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    background: linear-gradient();
+  
+
+}
+
+.login input{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    color: white;
+    outline: none;
+}
+
+::placeholder{
+    color:white ;
+    font-family: titi-regular;
+    font-size: 16px;
+}
+
+.login .botao-logar{
+    height: 40px;
+    width: 273px;
+    display: flex;
+    background-color: #F9AA01;
+   justify-content: center;
+   align-items: center;
+   border-radius: 8px;
+   position: relative;
+   top: 167px;
+   margin: auto;
+}
+.login a{
+    text-decoration: none;
+    color: #1B1426;
+    font-family: titi-bold;
+    font-size: 24px;
+}
+.login .botao-logar:hover{
+    box-shadow: 2px 2px 10px black;
+}
+
+
+
+
+
+
+
+
 
 
 
