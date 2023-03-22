@@ -189,7 +189,7 @@ main a {
 }
 
 main .caixa-sobre {
-    width: 169px;
+    width: 170px;
     height: 40px;
     display: flex;
     justify-content: center;
@@ -199,7 +199,9 @@ main .caixa-sobre {
 }
 
 main .caixa-sobre:hover {
-    box-shadow: 2px 2px 10px black;
+    width: 175px;
+    height: 45px;
+    box-shadow: 2px 2px 8px black;
 }
 
 
@@ -423,6 +425,39 @@ main section .layout-jogos {
         align-items: center;
         justify-content: center;
 
+
+    }
+
+    .textos-progamer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .textos{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 34px;
+        width: 100%;
+        gap: 11px;
+    }
+
+    .texto-killjoy{
+        
+    }
+    .texto-jinx{
+       
+    }
+    
+    
+
+
+    .parte-convite .texto-killjoy, .texto-jinx{
+        width: 360px;
+        height: 440px;
+        background-image: linear-gradient(to left top, rgba(47, 7, 109, .83), rgba(122, 49, 236, .20));
+        backdrop-filter: blur(15px);
+        border-radius: 8px
 
     }
 }

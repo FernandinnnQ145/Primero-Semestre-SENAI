@@ -16,7 +16,7 @@
 }
 
 @font-face {
-    font-family: titi-regular ;
+    font-family: titi-regular;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
@@ -146,7 +146,7 @@ header .midias-digitais {
 
 
 
-main{
+main {
     margin-top: 60px;
     height: 687px;
 
@@ -162,24 +162,27 @@ main{
     top: 86px;
     background-image: linear-gradient(to right, rgba(27, 20, 38, 0.6), rgba(27, 20, 38, 0.6));
 }
-.login .caixa-login{
+
+.login .caixa-login {
     position: relative;
     top: 48px;
     align-items: center;
     justify-content: center;
     display: flex;
 }
-.login h1{
+
+.login h1 {
     font-family: titi-black;
     font-size: 24px;
     border-top: 2px solid #F9AA01;
- 
+    text-transform: uppercase;
+
 
 }
 
 
 
-form{
+form {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -189,7 +192,8 @@ form{
     gap: 31px;
 }
 
-form .escrever-email, .escrever-senha{
+form .escrever-email,
+.escrever-senha {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -200,11 +204,11 @@ form .escrever-email, .escrever-senha{
     backdrop-filter: blur(10px);
     border-radius: 8px;
     background: linear-gradient();
-  
+
 
 }
 
-.login input{
+.login input {
     background-color: transparent;
     border: none;
     width: 100%;
@@ -212,31 +216,33 @@ form .escrever-email, .escrever-senha{
     outline: none;
 }
 
-::placeholder{
-    color:white ;
+::placeholder {
+    color: white;
     font-family: titi-regular;
     font-size: 16px;
 }
 
-.login .botao-logar{
+.login .botao-logar {
     height: 40px;
     width: 273px;
     display: flex;
     background-color: #F9AA01;
-   justify-content: center;
-   align-items: center;
-   border-radius: 8px;
-   position: relative;
-   top: 167px;
-   margin: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    position: relative;
+    top: 167px;
+    margin: auto;
 }
-.login a{
+
+.login a {
     text-decoration: none;
     color: #1B1426;
     font-family: titi-bold;
     font-size: 24px;
 }
-.login .botao-logar:hover{
+
+.login .botao-logar:hover {
     box-shadow: 2px 2px 10px black;
 }
 
@@ -359,5 +365,38 @@ form .escrever-email, .escrever-senha{
     header .header-top .contatos img {
         width: 25px;
         height: 25px;
+    }
+
+
+
+
+
+
+
+    main{
+        background-image: url(../assets/imagem/Banner_Login-desktoop.png);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+        height: 816px;
+        margin-top: auto;
+    }
+
+
+
+    .login{
+        height: 520px;
+        top: 148px;
+        width: 713px;
+        margin: auto;
+    }
+    .login h1{
+        font-size: 40px;
+        font-family: titi-black;
+        text-transform: uppercase;
+    }
+
+    form .escrever-email, .escrever-senha {
+        width: 565px;
     }
 }
