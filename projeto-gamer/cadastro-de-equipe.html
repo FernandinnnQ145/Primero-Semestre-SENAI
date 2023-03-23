@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto Gamer</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/cadastro-de-equipe.css">
 </head>
 
 <body>
@@ -141,107 +141,47 @@
     </header>
 
 
+
     <main>
-        <article>
+        <div class="grid-layout">
+            <div class="espaco-cadastro">
+                <h1>Cadastro de equipes</h1>
+                <div class="borda-embaixo"></div>
 
-            <div class="banner-mobille">
-                <div class="grid-layout">
 
-                    <div class="banner-info-mobille">
-                        <h1>Liga gamer</h1>
 
-                        <a class="caixa-sobre" href="">Sobre</a>
+                <form action="">
+                    <div class="id">
+                        <input type="text" placeholder="Digite o id da sua equipe">
                     </div>
-                </div>
-            </div>
 
-            <div class="banner">
-                <div class="grid-layout">
-                    <div class="banner-info">
-                        <h1>Liga gamer</h1>
 
-                        <a class="caixa-sobre" href="">Sobre</a>
-
+                    <div class="nome">
+                        <input type="text" placeholder="Digite o nome da sua equipe">
                     </div>
-                </div>
-
-
-
-        </article>
-
-        <section class="jogos">
-            <div class="grid-layout layout-jogos">
-                <img src="assets/imagem/card-fifa.png" alt="Card fifa, jogo mais popular">
-                <img src="assets/imagem/Card-CS GO.png" alt="Card CS, ultimo jogo">
+                </form>
 
             </div>
-        </section>
-
-
-
-        <section class="parte-convite">
-            <div class="grid-layout">
-
-                <div class="box-h2">
-                    <h2>Entre para o time progamer</h2>
-                    <div class="borda-pequena">
-                    </div>
-                </div>
-
-
-                <div class="textos-progamer">
-
-                    <div class="parte-killjoy">
-                        <img class="killjoy" src="assets/imagem/kiljoy.png" alt="Imagem da kiljoy">
-
-
-
-                        <div class="texto-killjoy">
-                            <img src="assets/icons/icone-controle.svg" alt="Icone de controle">
-                            <h3>20 jogos diferentes</h3>
-                            <p>São mais de 20 jogos em 2 plataformas dispóniveis para que você possa aprender melhores
-                                técnicas.</p>
-                        </div>
-                    </div>
-
-
-
-
-                    <div class="parte-jinx">
-                        <div class="texto-jinx">
-                            <img src="assets/icons/icone-pessoa-com-controle.svg"
-                                alt="Icone de uma pessoa com controle">
-                            <h3>53 professores</h3>
-                            <p>Temos 53 Proplayers no nosso time para ensinar todas as es- tratégias, você vai
-                                aprender do básico ao avançado.
-                                Tempo de treinamento, des- canso, equipamentos. </p>
-                        </div>
-
-                        <img class="jinx" src="assets/imagem/jinx.png" alt="Imagem da jinx">
-                    </div>
-
-
-                </div>
-            </div>
-        </section>
-
-
-        <section class="noticias">
-            <h4>Noticias</h4>
-            
-        </section>
+        </div>
     </main>
 
 
-    <script>
-        function mostraMenu() {
-            document.getElementById("menu").classList.toggle("mostrar-menu");
-        }
 
-        function mostrarMenuUsuario() {
-            document.getElementById("icones-laterais").classList.toggle("mostrar-menu-usuario")
-        }
-    </script>
+
+
+
+
 </body>
 
 </html>
+
+
+<script>
+    function mostraMenu() {
+        document.getElementById("menu").classList.toggle("mostrar-menu");
+    }
+
+    function mostrarMenuUsuario() {
+        document.getElementById("icones-laterais").classList.toggle("mostrar-menu-usuario")
+    }
+</script>

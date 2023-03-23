@@ -16,10 +16,14 @@
 }
 
 @font-face {
-    font-family: titi-regular;
+    font-family: titi-regular ;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
+@font-face {
+    font-family: quick;
+    src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
 
 /* reset css */
 * {
@@ -146,105 +150,80 @@ header .midias-digitais {
 
 
 
-main {
-    margin-top: 60px;
-    height: 687px;
 
-    background-image: url(../assets/imagem/Banner_Login-mobille.png);
+/* main */
+
+main{
+    background-image: url(../assets/imagem/Banner_cadastro_de_Equipe-mobille.png);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    background-repeat: no-repeat;
+    margin-top: 60px;
+    height: 1231px;
 }
 
-.login {
-    height: 462px;
+main .espaco-cadastro{
+    height: 492px;
+   top: 78px;
+   position: relative;
+   background-color: transparent;
+   border: 1px solid transparent;
+  
+    background-image:  linear-gradient(to right bottom, rgba(27, 20, 38, .6), rgba(60, 3, 65, .38));
+
+}
+main h1{
+    top: 40px;
     position: relative;
-    top: 86px;
-    background-image: linear-gradient(to right, rgba(27, 20, 38, 0.6), rgba(27, 20, 38, 0.6));
-}
-
-.login .caixa-login {
-    position: relative;
-    top: 48px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
-
-.login h1 {
     font-family: titi-black;
-    font-size: 24px;
-    border-top: 2px solid #F9AA01;
+    font-size: 28px;
     text-transform: uppercase;
-
-
-}
-
-
-
-form {
-    display: flex;
+    align-items: center;
     justify-content: center;
-    align-items: center;
-    position: relative;
-    top: 101px;
-    flex-direction: column;
-    gap: 31px;
-}
-
-form .escrever-email,
-.escrever-senha {
     display: flex;
-    align-items: center;
-    gap: 10px;
-    width: 273px;
-    height: 40px;
-    background-image: linear-gradient(to right bottom, rgba(239, 239, 239, 0.6), rgba(239, 239, 239, 0.1));
-    padding: 5px 10px;
-    backdrop-filter: blur(10px);
-    border-radius: 8px;
-    background: linear-gradient();
-
-
 }
-
-.login input {
-    background-color: transparent;
-    border: none;
-    width: 100%;
-    color: white;
-    outline: none;
-}
-
-::placeholder {
-    color: white;
-    font-family: titi-regular;
-    font-size: 16px;
-}
-
-.login .botao-logar {
-    height: 40px;
-    width: 273px;
-    display: flex;
-    background-color: #F9AA01;
-    justify-content: center;
-    align-items: center;
-    border-radius: 8px;
+main .borda-embaixo{
+    width: 250px;
     position: relative;
-    top: 167px;
+    border-bottom: #F9AA01 solid 2px;
+    top: 49px;
     margin: auto;
 }
 
-.login a {
-    text-decoration: none;
-    color: #1B1426;
-    font-family: titi-bold;
-    font-size: 24px;
+main form{
+    top: 127px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 24px;
 }
 
-.login .botao-logar:hover {
-    box-shadow: 2px 2px 10px black;
+main form .id, .nome{
+    background-image: linear-gradient(to right, rgba(239, 239, 239, 0.6), rgba(239, 239, 239, 0.1));
+    backdrop-filter: blur(4px);
+    padding: 5px 10px;
+    border-radius: 8px;
 }
+
+form input{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+}
+form ::placeholder{
+    color: white;
+    font-family: titi-regular;
+    font-size: 16px;
+    margin-left: 16px;
+}
+
+
+
+
+
+
+
 
 
 
@@ -365,38 +344,5 @@ form .escrever-email,
     header .header-top .contatos img {
         width: 25px;
         height: 25px;
-    }
-
-
-
-
-
-
-
-    main{
-        background-image: url(../assets/imagem/Banner_Login.png);
-        background-repeat: no-repeat;
-        background-position: bottom;
-        background-size: cover;
-        height: 680px;
-        margin-top: auto;
-    }
-
-
-
-    .login{
-        height: 520px;
-        top: 148px;
-        width: 713px;
-        margin: auto;
-    }
-    .login h1{
-        font-size: 40px;
-        font-family: titi-black;
-        text-transform: uppercase;
-    }
-
-    form .escrever-email, .escrever-senha {
-        width: 565px;
     }
 }

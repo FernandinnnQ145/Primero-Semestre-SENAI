@@ -20,6 +20,10 @@
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
+@font-face {
+    font-family: quick;
+    src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
 
 /* reset css */
 * {
@@ -405,9 +409,10 @@ main section .layout-jogos {
 
 
     .parte-convite h2 {
-        font-family: tit-black;
+        font-family: titi-black;
         font-size: 40px;
         color: #1B1426;
+        text-transform: uppercase;
     }
 
     .borda-pequena {
@@ -431,22 +436,36 @@ main section .layout-jogos {
     .textos-progamer{
         display: flex;
         justify-content: space-between;
+        align-items: center;
+        margin-top: 40px;
+        
+
     }
 
-    .textos{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-top: 34px;
-        width: 100%;
-        gap: 11px;
-    }
+   .killjoy{
+    
+    width: 522px;
+    height: 692px;
+   }
+   .jinx{
+    
+    width: 522px;
+    height: 692px;
+   }
 
     .texto-killjoy{
+        position: absolute;
+        margin-left: 364px;
         
     }
     .texto-jinx{
+       position: absolute;
+       right: 344px;
        
+    }
+    .parte-killjoy{
+        display: flex;
+        flex-direction: row;
     }
     
     
@@ -457,7 +476,37 @@ main section .layout-jogos {
         height: 440px;
         background-image: linear-gradient(to left top, rgba(47, 7, 109, .83), rgba(122, 49, 236, .20));
         backdrop-filter: blur(15px);
-        border-radius: 8px
-
+        border-radius: 8px;
+        margin-top: 194px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .textos-progamer p{
+        width: 248px;
+        font-size: 16px;
+        color: white;
+        font-family: quick;
+        margin-top: 28px;
+    }
+    .textos-progamer .texto-jinx img{
+        margin-top: 35px;
+    }
+    .textos-progamer .texto-killjoy img{
+        margin-top: 35px;
+    }
+    .textos-progamer .texto-killjoy h3{
+        font-family: titi-black;
+        font-size: 25px;
+        margin-top: 28px;
+        text-shadow: 2px 2px 10px #C6A5E5;
+        text-transform: uppercase;
+    }
+    .textos-progamer .texto-jinx h3{
+        font-family: titi-black;
+        font-size: 25px;
+        margin-top: 28px;
+        text-shadow: 2px 2px 10px #C6A5E5;
+        text-transform: uppercase;
     }
 }
