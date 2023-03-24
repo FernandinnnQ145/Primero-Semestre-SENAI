@@ -16,13 +16,17 @@
 }
 
 @font-face {
-    font-family: titi-regular ;
+    font-family: titi-regular;
     src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
 @font-face {
     font-family: quick;
     src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: quick-regular;
+    src: url(../assets/fonts/Quicksand/static/Quicksand-Regular.ttf);
 }
 
 /* reset css */
@@ -240,6 +244,31 @@ main section .layout-jogos {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 768px) {}
 
 /* Desktop >= 1200px*/
@@ -433,45 +462,49 @@ main section .layout-jogos {
 
     }
 
-    .textos-progamer{
+    .textos-progamer {
         display: flex;
         justify-content: space-between;
         align-items: center;
         margin-top: 40px;
-        
+
 
     }
 
-   .killjoy{
-    
-    width: 522px;
-    height: 692px;
-   }
-   .jinx{
-    
-    width: 522px;
-    height: 692px;
-   }
+    .killjoy {
 
-    .texto-killjoy{
+        width: 522px;
+        height: 692px;
+    }
+
+    .jinx {
+
+        width: 522px;
+        height: 692px;
+    }
+
+    .texto-killjoy {
         position: absolute;
         margin-left: 364px;
-        
+
     }
-    .texto-jinx{
-       position: absolute;
-       right: 344px;
-       
+
+    .texto-jinx {
+        position: absolute;
+        right: 344px;
+
     }
-    .parte-killjoy{
+
+    .parte-killjoy {
         display: flex;
         flex-direction: row;
     }
-    
-    
 
 
-    .parte-convite .texto-killjoy, .texto-jinx{
+
+
+    .parte-convite .texto-killjoy,
+    .texto-jinx {
         width: 360px;
         height: 440px;
         background-image: linear-gradient(to left top, rgba(47, 7, 109, .83), rgba(122, 49, 236, .20));
@@ -482,31 +515,149 @@ main section .layout-jogos {
         flex-direction: column;
         align-items: center;
     }
-    .textos-progamer p{
+
+    .textos-progamer p {
         width: 248px;
         font-size: 16px;
         color: white;
         font-family: quick;
         margin-top: 28px;
     }
-    .textos-progamer .texto-jinx img{
+
+    .textos-progamer .texto-jinx img {
         margin-top: 35px;
     }
-    .textos-progamer .texto-killjoy img{
+
+    .textos-progamer .texto-killjoy img {
         margin-top: 35px;
     }
-    .textos-progamer .texto-killjoy h3{
+
+    .textos-progamer .texto-killjoy h3 {
         font-family: titi-black;
         font-size: 25px;
         margin-top: 28px;
         text-shadow: 2px 2px 10px #C6A5E5;
         text-transform: uppercase;
     }
-    .textos-progamer .texto-jinx h3{
+
+    .textos-progamer .texto-jinx h3 {
         font-family: titi-black;
         font-size: 25px;
         margin-top: 28px;
         text-shadow: 2px 2px 10px #C6A5E5;
         text-transform: uppercase;
     }
+
+
+
+
+    main .novidades {
+        background-image: url(../assets/imagem/backgrund_notícias.png);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+        height: 1175px;
+    }
+
+    .novidades h4 {
+        font-family: titi-black;
+        font-size: 40px;
+        text-transform: uppercase;
+      
+    }
+
+    .novidades .borda-noticia{
+        width: 204px;
+        border-bottom: #F9AA01 2px solid;
+    }
+
+    .novidades .titulo-noticia{
+        display: flex;
+        align-items: center;
+        top: 93px;
+        position: relative;
+        flex-direction: column;
+    }
+
+    .novidades .noticias .noticia-1, .noticia-2, .noticia-3, .noticia-4, .noticia-5, .noticia-6, .noticia-7, .noticia-8 {
+        width: 285px;
+        height: 387px;
+        background-image: linear-gradient(to right, rgba(37, 26, 52, 0.34), rgba(5, 1, 12, .79));
+        border-radius: 8px;
+        
+    }
+    
+    .noticias .noticias-cima{
+        position: relative;
+        margin-top: 158px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .noticias .noticias-baixo{
+        position: relative;
+        margin-top: 62px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .conteudo-noticia{
+        width: 241px;
+        text-align: justify;
+        margin: auto;
+    }
+
+    .noticias h5{
+        font-family: titi-bold;
+        font-size: 24px;
+        margin-top: 16px;
+        position: relative;
+    }
+    .noticias p{
+        font-family: quick-regular;
+        font-size: 16px;
+        margin-top: 16px;
+        position: relative;
+    }
+
+    footer{
+        background-image: url(../assets/imagem/backgroung_footer.png);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+        height: 520px;
+    }
+    footer .linear-footer{
+        width: 100%;
+        height: 212px;
+        background-image: linear-gradient(to bottom, rgba(9, 18, 21, 1), rgba(67, 3, 99, .03));
+    }
+
+    footer .primeira-parte-footer{
+        width: 285px;
+        height: 258px;
+    }
+
+    footer .primeira-parte-footer p{
+        margin-top: 36px;
+        position: relative;
+        text-align: justify;
+        font-family: quick-regular;
+        color: white;
+        font-size: 16px;
+    }
+
+    footer .primeira-parte-footer .logos-footer{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 42px;
+    }
+
+
+
+
 }
