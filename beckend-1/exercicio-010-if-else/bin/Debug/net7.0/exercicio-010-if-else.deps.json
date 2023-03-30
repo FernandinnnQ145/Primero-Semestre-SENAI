@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio-010-if-else/1.0.0": {
+        "runtime": {
+          "exercicio-010-if-else.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-010-if-else/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\bin\Debug\net7.0\exercicio-007-if-else.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\bin\Debug\net7.0\exercicio-007-if-else.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\bin\Debug\net7.0\exercicio-007-if-else.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\bin\Debug\net7.0\exercicio-007-if-else.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\bin\Debug\net7.0\exercicio-007-if-else.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\refint\exercicio-007-if-else.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\exercicio-007-if-else.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-007-if-else\obj\Debug\net7.0\ref\exercicio-007-if-else.dll
