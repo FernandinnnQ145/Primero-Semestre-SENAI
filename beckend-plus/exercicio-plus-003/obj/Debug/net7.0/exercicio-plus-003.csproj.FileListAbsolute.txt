@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\bin\Debug\net7.0\exercicio-plus-003.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\bin\Debug\net7.0\exercicio-plus-003.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\bin\Debug\net7.0\exercicio-plus-003.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\bin\Debug\net7.0\exercicio-plus-003.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\bin\Debug\net7.0\exercicio-plus-003.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\refint\exercicio-plus-003.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\exercicio-plus-003.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-plus\exercicio-plus-003\obj\Debug\net7.0\ref\exercicio-plus-003.dll
