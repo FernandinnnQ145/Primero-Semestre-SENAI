@@ -41,6 +41,10 @@ switch (quantosValores){
     case 5:
     Console.WriteLine($"Culpado");
     break;
+    default:
+    Console.WriteLine($"Temos apenas 5 opções");
+    break;
+    
 
 }
 

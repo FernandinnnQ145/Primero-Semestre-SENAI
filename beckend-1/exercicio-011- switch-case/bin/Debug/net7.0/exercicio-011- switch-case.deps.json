@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio-011- switch-case/1.0.0": {
+        "runtime": {
+          "exercicio-011- switch-case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-011- switch-case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

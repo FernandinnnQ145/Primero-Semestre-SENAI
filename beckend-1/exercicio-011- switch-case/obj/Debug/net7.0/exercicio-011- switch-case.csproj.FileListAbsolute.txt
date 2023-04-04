@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\bin\Debug\net7.0\exercicio-011- switch-case.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\bin\Debug\net7.0\exercicio-011- switch-case.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\bin\Debug\net7.0\exercicio-011- switch-case.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\bin\Debug\net7.0\exercicio-011- switch-case.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\bin\Debug\net7.0\exercicio-011- switch-case.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\refint\exercicio-011- switch-case.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\exercicio-011- switch-case.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-011- switch-case\obj\Debug\net7.0\ref\exercicio-011- switch-case.dll
