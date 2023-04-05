@@ -1,4 +1,5 @@
 ﻿
+/*
 Console.WriteLine($"1-Coca-cola");
 Console.WriteLine($"2-Cerveja");
 Console.WriteLine($"3-caipirinha");
@@ -111,5 +112,9 @@ switch (escolha)
 
 
 }
+*/
+
+
+
 
 

@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\bin\Debug\net7.0\exercicio-013-do-while.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\bin\Debug\net7.0\exercicio-013-do-while.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\bin\Debug\net7.0\exercicio-013-do-while.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\bin\Debug\net7.0\exercicio-013-do-while.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\bin\Debug\net7.0\exercicio-013-do-while.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\refint\exercicio-013-do-while.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\exercicio-013-do-while.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio-013-do-while\obj\Debug\net7.0\ref\exercicio-013-do-while.dll
