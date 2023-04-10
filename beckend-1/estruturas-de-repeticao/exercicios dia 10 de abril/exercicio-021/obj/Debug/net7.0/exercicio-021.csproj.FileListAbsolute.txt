@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\bin\Debug\net7.0\exercicio-021.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\bin\Debug\net7.0\exercicio-021.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\bin\Debug\net7.0\exercicio-021.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\bin\Debug\net7.0\exercicio-021.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\bin\Debug\net7.0\exercicio-021.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\refint\exercicio-021.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\exercicio-021.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-021\obj\Debug\net7.0\ref\exercicio-021.dll

@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\bin\Debug\net7.0\exercicios-023-desafio.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\bin\Debug\net7.0\exercicios-023-desafio.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\bin\Debug\net7.0\exercicios-023-desafio.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\bin\Debug\net7.0\exercicios-023-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\bin\Debug\net7.0\exercicios-023-desafio.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\refint\exercicios-023-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\exercicios-023-desafio.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicios-023-desafio\obj\Debug\net7.0\ref\exercicios-023-desafio.dll
