@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\bin\Debug\net7.0\exercicio-24.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\bin\Debug\net7.0\exercicio-24.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\bin\Debug\net7.0\exercicio-24.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\bin\Debug\net7.0\exercicio-24.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\bin\Debug\net7.0\exercicio-24.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\refint\exercicio-24.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\exercicio-24.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-24\obj\Debug\net7.0\ref\exercicio-24.dll

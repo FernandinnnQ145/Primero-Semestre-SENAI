@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\bin\Debug\net7.0\exercicio-25-matriz.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\bin\Debug\net7.0\exercicio-25-matriz.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\bin\Debug\net7.0\exercicio-25-matriz.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\bin\Debug\net7.0\exercicio-25-matriz.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\bin\Debug\net7.0\exercicio-25-matriz.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\refint\exercicio-25-matriz.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\exercicio-25-matriz.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\estruturas-de-repeticao\exercicio-25-matriz\obj\Debug\net7.0\ref\exercicio-25-matriz.dll
