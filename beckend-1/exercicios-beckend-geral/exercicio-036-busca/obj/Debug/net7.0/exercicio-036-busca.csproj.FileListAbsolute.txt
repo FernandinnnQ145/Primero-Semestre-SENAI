@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\bin\Debug\net7.0\exercicio-036-busca.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\bin\Debug\net7.0\exercicio-036-busca.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\bin\Debug\net7.0\exercicio-036-busca.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\bin\Debug\net7.0\exercicio-036-busca.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\bin\Debug\net7.0\exercicio-036-busca.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\refint\exercicio-036-busca.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\exercicio-036-busca.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-036-busca\obj\Debug\net7.0\ref\exercicio-036-busca.dll

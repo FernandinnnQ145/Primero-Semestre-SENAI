@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\bin\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\bin\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\bin\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\bin\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\bin\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\refint\exercicio-030-funcao-impostoDeRenda.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\exercicio-030-funcao-impostoDeRenda.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-030-funcao-impostoDeRenda\obj\Debug\net7.0\ref\exercicio-030-funcao-impostoDeRenda.dll

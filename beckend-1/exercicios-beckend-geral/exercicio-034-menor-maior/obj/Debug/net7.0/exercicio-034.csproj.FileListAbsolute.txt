@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\bin\Debug\net7.0\exercicio-034.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\bin\Debug\net7.0\exercicio-034.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\bin\Debug\net7.0\exercicio-034.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\bin\Debug\net7.0\exercicio-034.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\bin\Debug\net7.0\exercicio-034.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\refint\exercicio-034.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\exercicio-034.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-034\obj\Debug\net7.0\ref\exercicio-034.dll

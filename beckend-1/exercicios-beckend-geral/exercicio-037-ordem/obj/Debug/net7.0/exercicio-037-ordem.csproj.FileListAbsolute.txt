@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\bin\Debug\net7.0\exercicio-037-ordem.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\bin\Debug\net7.0\exercicio-037-ordem.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\bin\Debug\net7.0\exercicio-037-ordem.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\bin\Debug\net7.0\exercicio-037-ordem.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\bin\Debug\net7.0\exercicio-037-ordem.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\refint\exercicio-037-ordem.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\exercicio-037-ordem.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-037-ordem\obj\Debug\net7.0\ref\exercicio-037-ordem.dll

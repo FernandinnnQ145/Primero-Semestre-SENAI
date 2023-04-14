@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio-030-funcao-impostoDeRenda/1.0.0": {
+        "runtime": {
+          "exercicio-030-funcao-impostoDeRenda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-030-funcao-impostoDeRenda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

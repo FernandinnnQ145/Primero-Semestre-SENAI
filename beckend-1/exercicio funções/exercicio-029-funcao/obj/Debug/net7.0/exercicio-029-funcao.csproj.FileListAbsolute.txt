@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\bin\Debug\net7.0\exercicio-029-funcao.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\bin\Debug\net7.0\exercicio-029-funcao.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\bin\Debug\net7.0\exercicio-029-funcao.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\bin\Debug\net7.0\exercicio-029-funcao.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\bin\Debug\net7.0\exercicio-029-funcao.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\refint\exercicio-029-funcao.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\exercicio-029-funcao.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicio funções\exercicio-029-funcao\obj\Debug\net7.0\ref\exercicio-029-funcao.dll
