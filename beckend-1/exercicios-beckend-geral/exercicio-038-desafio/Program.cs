@@ -145,7 +145,7 @@ g-gasolina");
                         break;
                     default:
                         Console.WriteLine($"Resposta invalida, tente outra:");
-                        escolha = char.Parse(Console.ReadLine().ToLower());
+                        escolha1 = char.Parse(Console.ReadLine().ToLower());
                         break;
                 }
 
@@ -154,7 +154,7 @@ g-gasolina");
 
 
 
-            } while ((escolha1 != 'a' && escolha != 'g'));
+            } while ((escolha1 != 'a' && escolha1 != 'g'));
 
             volta();
             break;
