@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio-038-desafio/1.0.0": {
+        "runtime": {
+          "exercicio-038-desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-038-desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

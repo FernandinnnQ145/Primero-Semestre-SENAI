@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\bin\Debug\net7.0\exercicio-038-desafio.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\bin\Debug\net7.0\exercicio-038-desafio.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\bin\Debug\net7.0\exercicio-038-desafio.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\bin\Debug\net7.0\exercicio-038-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\bin\Debug\net7.0\exercicio-038-desafio.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\refint\exercicio-038-desafio.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\exercicio-038-desafio.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-1\exercicios-beckend-geral\exercicio-038-desafio\obj\Debug\net7.0\ref\exercicio-038-desafio.dll
