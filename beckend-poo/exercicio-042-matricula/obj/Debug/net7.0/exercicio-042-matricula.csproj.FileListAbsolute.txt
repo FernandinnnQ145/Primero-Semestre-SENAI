@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\bin\Debug\net7.0\exercicio-042-matricula.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\bin\Debug\net7.0\exercicio-042-matricula.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\bin\Debug\net7.0\exercicio-042-matricula.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\bin\Debug\net7.0\exercicio-042-matricula.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\bin\Debug\net7.0\exercicio-042-matricula.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\refint\exercicio-042-matricula.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\exercicio-042-matricula.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-042-matricula\obj\Debug\net7.0\ref\exercicio-042-matricula.dll

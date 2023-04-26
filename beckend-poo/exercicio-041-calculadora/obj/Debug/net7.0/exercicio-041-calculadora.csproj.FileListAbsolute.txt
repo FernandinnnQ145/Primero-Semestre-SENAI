@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\bin\Debug\net7.0\exercicio-041-calculadora.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\bin\Debug\net7.0\exercicio-041-calculadora.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\bin\Debug\net7.0\exercicio-041-calculadora.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\bin\Debug\net7.0\exercicio-041-calculadora.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\bin\Debug\net7.0\exercicio-041-calculadora.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\refint\exercicio-041-calculadora.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\exercicio-041-calculadora.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-041-calculadora\obj\Debug\net7.0\ref\exercicio-041-calculadora.dll

@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\bin\Debug\net7.0\exercicio-043-celular.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\bin\Debug\net7.0\exercicio-043-celular.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\bin\Debug\net7.0\exercicio-043-celular.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\bin\Debug\net7.0\exercicio-043-celular.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\bin\Debug\net7.0\exercicio-043-celular.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\refint\exercicio-043-celular.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\exercicio-043-celular.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\exercicio-043-celular\obj\Debug\net7.0\ref\exercicio-043-celular.dll

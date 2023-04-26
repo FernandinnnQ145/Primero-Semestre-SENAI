@@ -471,21 +471,11 @@ main section .layout-jogos {
 
     }
 
-    .killjoy {
-
-        width: 522px;
-        height: 692px;
-    }
-
-    .jinx {
-
-        width: 522px;
-        height: 692px;
-    }
+   
 
     .texto-killjoy {
         position: absolute;
-        margin-left: 364px;
+        margin-left: 280px;
 
     }
 
