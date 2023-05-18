@@ -251,6 +251,197 @@ form .escrever-email,
 
 
 
+/* footer */
+
+
+
+.footer {
+    background-image: url(../assets/imagem/backgroung_footer.png);
+    box-shadow: inset 0px 50px 80px rgb(0, 0, 0, 0.9);
+    background-size: cover;
+    height: 1531px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.agradecimentos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-family: "quicksand";
+    font-size: 16px;
+    text-align: justify;
+}
+
+.agradecimentos>img {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.agradecimentos p {
+    margin-bottom: 100px;
+}
+
+.midiassociais-footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+h5 {
+    color: white;
+    font-family: "titilium web";
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+footer hr {
+    width: 110px;
+    border: 1px solid #f9aa01;
+}
+
+.LinksUteis ul {
+    font-family: "inter";
+    font-size: 16px;
+    margin-top: 34px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.inside {
+    list-style-position: none;
+}
+
+
+.LinksUteis ul li {
+    display: flex;
+}
+
+.Contatos hr {
+    margin-bottom: 50px;
+}
+
+.Contatos h2 {
+    color: #f9aa01;
+    font-size: 16px;
+    font-family: "inter";
+
+}
+
+.Contatos p {
+    color: white;
+    font-size: 16px;
+    font-family: "inter";
+}
+
+.Contatos p,
+h2 {
+    padding-bottom: 9px;
+}
+
+.Newsletter hr {
+    margin-bottom: 30px;
+
+}
+
+.input-gradient {
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background:
+        linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) border-box;
+
+    border-image-slice: 1;
+    border: 1px solid transparent;
+}
+
+.Newsletter .input-gradient input {
+    color: white;
+    padding-left: 16px;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #BBAACC 0%, rgba(217, 217, 217, 0) 103.86%);
+    backdrop-filter: blur(5px);
+    outline: none;
+}
+
+.Newsletter input::placeholder {
+    font-weight: bold;
+    color: white;
+    font-family: "quicksand";
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+.Newsletter button {
+    width: 100%;
+    height: 40px;
+    background-color: #f9aa01;
+    color: black;
+    font-family: "titilium web";
+    font-size: 24px;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.footer-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 1px solid green; */
+    width: 100%;
+
+}
+
+.footer-bottom a {
+    align-self: flex-end;
+    margin-top: 80px;
+    margin-right: 18px;
+}
+
+footer .inside a::before {
+    content: "-";
+    color: #F9AA01;
+    width: 13px;
+    height: 0px;
+    display: flex;
+    align-items: center;
+}
+
+
+.copyright {
+    color: white;
+    font-family: "titilium web";
+    align-self: center;
+}
+
+
+
+
+
+
+
 
 
 
@@ -373,7 +564,7 @@ form .escrever-email,
 
 
 
-    main{
+    main {
         background-image: url(../assets/imagem/Banner_Login.png);
         background-repeat: no-repeat;
         background-position: bottom;
@@ -384,19 +575,126 @@ form .escrever-email,
 
 
 
-    .login{
+    .login {
         height: 520px;
         top: 148px;
         width: 713px;
         margin: auto;
     }
-    .login h1{
+
+    .login h1 {
         font-size: 40px;
         font-family: titi-black;
         text-transform: uppercase;
     }
 
-    form .escrever-email, .escrever-senha {
+    form .escrever-email,
+    .escrever-senha {
         width: 565px;
     }
+
+
+
+    /* footer */
+    .footer {
+        background-image: url(../assets/imagem/backgroung_footer.png);
+        box-shadow: inset 0px 50px 80px rgb(0, 0, 0, 0.9);
+        height: 520px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .footer h5 {
+        margin-top: 0;
+    }
+
+    .footer-flex {
+        height: 257px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 40px;
+    }
+
+    .agradecimentos {
+        width: 294px;
+        height: 300px;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+
+    .agradecimentos * {
+        margin: 0 !important;
+    }
+
+    .midiassociais-footer {
+        width: 206px;
+        justify-content: space-between;
+
+    }
+
+    .LinksUteis {
+        width: 200px;
+        height: 257px;
+        margin-bottom: 20px;
+        align-self: flex-start;
+    }
+
+    .Contatos-footer {
+        margin-bottom: 10px;
+        align-self: flex-start;
+    }
+
+    .Newsletter {
+        align-self: flex-start;
+        padding-bottom: 80px;
+    }
+
+    .LinksUteis li {
+        margin-bottom: 12px;
+    }
+
+    .LinksUteis li a:hover {
+        color: #f9aa01;
+    }
+
+    .input-gradient {
+        width: 285px;
+        margin-top: 52px;
+    }
+
+    .footer-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 46px;
+    }
+
+    .footer-bottom input {
+        margin-top: 0;
+    }
+
+    h5 {
+        font-size: 30px;
+    }
+
+    footer .inside a::before {
+        content: "-";
+        color: #F9AA01;
+        width: 13px;
+        height: 0px;
+        display: flex;
+        align-items: center;
+    }
+
+    .LinksUteis .inside {
+        width: 126px;
+        height: 243px;
+    }
+
+
 }

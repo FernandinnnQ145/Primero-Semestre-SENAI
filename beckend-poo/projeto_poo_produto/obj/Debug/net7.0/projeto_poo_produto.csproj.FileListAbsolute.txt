@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\bin\Debug\net7.0\projeto_poo_produto.exe
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\bin\Debug\net7.0\projeto_poo_produto.deps.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\bin\Debug\net7.0\projeto_poo_produto.runtimeconfig.json
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\bin\Debug\net7.0\projeto_poo_produto.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\bin\Debug\net7.0\projeto_poo_produto.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.csproj.AssemblyReference.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\refint\projeto_poo_produto.dll
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.pdb
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\projeto_poo_produto.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Primero-Semestre-SENAI\beckend-poo\projeto_poo_produto\obj\Debug\net7.0\ref\projeto_poo_produto.dll
