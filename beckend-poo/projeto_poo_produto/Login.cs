@@ -11,12 +11,18 @@ namespace projeto_poo_produto
         public bool Logado = false;
         string? opcao;
         public Usuario Usuario;
+        Usuario nomeEncontrado = null;
 
 
         public Login()
         {
             Usuario = new Usuario();
             Logar(Usuario);
+
+            if (Logado == true)
+            {
+                GerarMenu();
+            }
         }
 
 
@@ -24,6 +30,8 @@ namespace projeto_poo_produto
 
         public void Logar(Usuario _usuario)
         {
+
+            List<Usuario> ListaUsuarios = new List<Usuario>();
             do
             {
                 Console.Clear();
@@ -58,7 +66,7 @@ namespace projeto_poo_produto
 
                         Usuario usuario = new Usuario(Codigo, Nome, Email, Senha, DataDeCadastro);
 
-                        string resultado = usuario.Cadastrar(usuario);
+                        string casdastrado = usuario.Cadastrar(usuario);
 
 
 
@@ -73,16 +81,16 @@ namespace projeto_poo_produto
                     case "2":
                         Console.Clear();
 
-                        List<Usuario> ListaUsuarios = Usuario.Listar();
+                        
                         if (ListaUsuarios.Count > 0)
                         {
-                            foreach (Usuario u in ListaUsuarios)
+                            foreach (Usuario user in ListaUsuarios)
                             {
                                 Console.WriteLine(@$"
-          Codigo: {u.Codigo}
-          Nome: {u.Nome}
-          Email: {u.Email}
-          Data de cadastro: {u.DataDeCadastro}");
+          Codigo: {user.Codigo}
+          Nome: {user.Nome}
+          Email: {user.Email}
+          Data de cadastro: {user.DataDeCadastro}");
 
 
 
@@ -95,9 +103,11 @@ namespace projeto_poo_produto
                         }
                         else
                         {
-                            Console.WriteLine(@$"
-                          Não tem nenhum usuario cadastrado
-                          Aperte enter para voltar");
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($" Não tem nenhum usuario cadastrado");
+                            Console.ResetColor();
+                            Console.WriteLine($"\nAperte enter para voltar");
+
                             Console.ReadLine();
 
 
@@ -116,7 +126,10 @@ namespace projeto_poo_produto
                         string senha = Console.ReadLine()!;
                         if (Usuario.Existe(nome, senha))
                         {
+                            nomeEncontrado = ListaUsuarios.Find(u => u.Nome == nome);
                             Logado = true;
+                            GerarMenu();
+
                         }
                         else
                         {
@@ -136,13 +149,28 @@ namespace projeto_poo_produto
 
                     case "4":
                         Console.Clear();
-                        Console.WriteLine($"Digite o nome do usuario que deseja remover");
-                        string nomeParaRemover = Console.ReadLine()!;
-                        Console.WriteLine($"\nDigite a senha do usuario que deseja remover");
-                        string senhaParaRemover = Console.ReadLine()!;
-                        Console.Clear();
-                        Usuario.Remover(nomeParaRemover, senhaParaRemover);
-                        Console.ReadLine();
+                        if (ListaUsuarios.Count > 0)
+                        {
+
+                            Console.WriteLine($"Digite o nome do usuario que deseja remover");
+                            string nomeParaRemover = Console.ReadLine()!;
+                            Console.WriteLine($"\nDigite a senha do usuario que deseja remover");
+                            string senhaParaRemover = Console.ReadLine()!;
+                            Console.Clear();
+                            Usuario.Remover(nomeParaRemover, senhaParaRemover);
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Programa ja esta sem usuarios");
+
+                            Console.WriteLine($"\nAperte enter para remover");
+                            Console.ReadLine();
+
+
+
+                        }
+
 
 
 
@@ -168,10 +196,111 @@ namespace projeto_poo_produto
 
 
 
+        string opcaoDois;
 
-
-    public void GerarMenu(){
+        public void GerarMenu()
+        {
+            List<Usuario> ListaUsuarios = new List<Usuario>();
+            List<Produto> ListaDeProdutos = new List<Produto>();
+            do
+            {
+                Console.Clear();
+                Console.WriteLine(@$"
+        Escolha a opção desejada
         
-    }
+        [1] Cadastrar produto
+        [2] Listar produto
+        [3] Remover produto
+        
+        [4] Cadastrar marca
+        [5] Listar marca
+        [6] Remover marca
+        
+        [7] Voltar
+        [0] Sair");
+
+                opcaoDois = Console.ReadLine()!;
+
+                switch (opcaoDois)
+                {
+                    case "1":
+                        Console.Clear();
+                        Console.WriteLine($"Digite o codigo do produto:");
+                        string Codigo = Console.ReadLine()!;
+
+                        Console.WriteLine($"\nDigite o nome do produto:");
+                        string NomeDoProduto = Console.ReadLine()!;
+
+                        Console.WriteLine($"\nDigite o preço do produto:");
+                        float Preco = float.Parse(Console.ReadLine()!)!;
+
+                        
+                        Console.WriteLine($"Digite a marca do produto:");
+                        string marca = Console.ReadLine()!;
+
+                        var DataDeCadastro = DateTime.Now;
+
+
+
+
+
+
+
+
+                        Produto produto = new Produto(Codigo, NomeDoProduto, Preco, DataDeCadastro, marca, nomeEncontrado);
+
+                        string ProdutoCadastrado = produto.Cadastrar(produto);
+                        break;
+
+
+
+
+                    case "2":
+                        Console.Clear();
+
+
+                        if (ListaDeProdutos.Count > 0)
+                        {
+                            foreach (Produto prod in ListaDeProdutos)
+                            {
+                                Console.WriteLine(@$"
+          Codigo: {prod.Codigo}
+          Nome: {prod.NomeDoProduto}
+          Preço: {prod.Preco}
+          Marca: {prod.marca}
+          Data de cadastro: {prod.DataDeCadastro}
+        ");
+          
+
+
+
+
+
+
+                            }
+                            Console.WriteLine($"\nAperte enter para voltar");
+                            Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($" Não tem nenhum usuario cadastrado");
+                            Console.ResetColor();
+                            Console.WriteLine($"\nAperte enter para voltar");
+
+                            Console.ReadLine();
+
+
+                        }
+
+                        break;
+
+
+
+
+                }
+
+            } while (opcaoDois != "0");
+        }
     }
 }

@@ -36,11 +36,7 @@ namespace projeto_poo_produto
             ListaUsuario.Add(_usuario);
             return "Cadastrado";
         }
-        public string Deletar(Usuario _usuario)
-        {
-            ListaUsuario.Remove(_usuario);
-            return "Deletado";
-        }
+        
 
         public static List<Usuario> Listar()
         {
@@ -71,5 +67,12 @@ namespace projeto_poo_produto
             }
             
         }
+
+
+
+
+
+
+        
     }
 }
