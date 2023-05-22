@@ -13,58 +13,128 @@ namespace projeto_poo_produto
         public DateTime DataDeCadastro { get; set; }
         public string? Marca { get; set; }
 
-        public Usuario? CadastradoPor { get; set; }
-        public static List<Produto> ListaDeProduto= new List<Produto>();
 
-        public static List<Produto> ListaDeProdutos = new List<Produto>();
-        internal object marca;
+        public static List<Produto> ListaDeProduto = new List<Produto>();
+
+
+
+
 
         public Produto()
         {
-
         }
 
-        public Produto(string _codigo, string _nomeDoProduto, float _preco, DateTime _dataDeCadastro, string _marca, Usuario _nomeEncontrado)
+        public Produto(string _codigo, string _nomeDoProduto, float _preco, DateTime _dataDeCadastro, string _marca)
         {
             Codigo = _codigo;
             NomeDoProduto = _nomeDoProduto;
             Preco = _preco;
             DataDeCadastro = _dataDeCadastro;
             Marca = _marca;
-            CadastradoPor = _nomeEncontrado;
+
 
         }
 
-        public string Cadastrar(Produto _produto)
+        public void Cadastrar()
         {
-            ListaDeProdutos.Add(_produto);
-            return "Cadastrado";
+            Console.Clear();
+            Console.WriteLine("Cadastro de Produto\n");
+            Console.WriteLine("Digite o código do produto:");
+            string codigo = Console.ReadLine()!;
+            Console.WriteLine("Digite o nome do produto:");
+            string nome = Console.ReadLine()!;
+            Console.WriteLine("Digite o preço do produto:");
+            float preco = float.Parse(Console.ReadLine()!);
+            Console.WriteLine("Digite a marca do produto:");
+            string marca = Console.ReadLine()!;
+            DataDeCadastro = DateTime.Now;
+
+            ListaDeProduto.Add(new Produto(codigo, nome, preco, DataDeCadastro, marca));
+            Console.WriteLine("\nProduto cadastrado com sucesso! Pressione enter para continuar.");
+            Console.ReadLine();
         }
 
-        public static List<Produto> Listar()
+        public void Listar()
         {
-            return ListaDeProduto;
+            Console.Clear();
+
+
+            if (ListaDeProduto.Count > 0)
+            {
+                foreach (Produto prod in ListaDeProduto)
+                {
+                    Console.WriteLine(@$"
+Codigo: {prod.Codigo}
+Nome: {prod.NomeDoProduto}
+Preço: {prod.Preco}
+Data de cadastro: {prod.DataDeCadastro}
+Marca: {prod.Marca}");
+
+
+
+
+
+
+                }
+                Console.WriteLine($"\nAperte enter para voltar");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($" Não tem nenhum usuario cadastrado");
+                Console.ResetColor();
+                Console.WriteLine($"\nAperte enter para voltar");
+
+                Console.ReadLine();
+
+
+            }
         }
 
-        // public void Remover(string codigoParaRemover)
-        // {
-        //     if (ListaDeProdutos.Exists(x => x.Codigo == codigoParaRemover))
-        //     {
-        //             Usuario usuarioRemover = ListaDeProdutos.Find(x => x.Codigo == codigoParaRemover);
-        //     ListaDeProdutos.Remove(produtoRemover); 
-        //     Console.Clear();
-        //     Console.WriteLine($"Removido com sucesso");
-        //     Console.WriteLine($"Aperte enter para voltar");
+        public void RemoverProduto()
+        {
+            Console.Clear();
+            if (ListaDeProduto.Count > 0)
+            {
+
+                Console.WriteLine($"Digite o nome do usuario que deseja remover");
+                string nomeParaRemover = Console.ReadLine()!;
+                Console.WriteLine($"\nDigite a senha do usuario que deseja remover");
+                string codigoParaRemover = Console.ReadLine()!;
+                Console.Clear();
+                if (ListaDeProduto.Exists(x => x.NomeDoProduto == nomeParaRemover && x.Codigo == codigoParaRemover))
+                {
+                    Produto produtoRemover = ListaDeProduto.Find(x => x.NomeDoProduto == nomeParaRemover && x.Codigo == codigoParaRemover);
+                    ListaDeProduto.Remove(produtoRemover);
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine($"Removido com sucesso");
+                    Console.ResetColor();
+                    Console.WriteLine($"Aperte enter para voltar");
 
 
-        //     }
-        //     else{
-        //         Console.Clear();
-        //         Console.WriteLine($"Usuário não encontrado ou senha incorreta");
-        //         Console.WriteLine($"Aperte enter para voltar");
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"Usuário não encontrado ou senha incorreta");
+                    Console.ResetColor();
+                    Console.WriteLine($"Aperte enter para voltar");
 
-        //     }
-        
+                }
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine($"Programa ja esta sem usuarios");
+
+                Console.WriteLine($"\nAperte enter para remover");
+                Console.ReadLine();
+
+            }
+        }
 
     }
 
