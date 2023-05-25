@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("beckend-2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("primeiro_mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("beckend-2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("beckend-2")]
+[assembly: System.Reflection.AssemblyProductAttribute("primeiro_mvc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("primeiro_mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
