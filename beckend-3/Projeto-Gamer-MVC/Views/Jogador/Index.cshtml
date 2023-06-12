@@ -1,0 +1,73 @@
+@model Jogador
+
+@{
+    ViewData["Title"] = "jogador";
+}
+<h1>Tela de jogadores</h1>
+@if (ViewBag.UserName == null)
+{
+    <a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="Index" >Login</a>
+}
+else{
+<form method="post" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+
+  
+    
+       
+     <label for="">Nome</label>
+    <input type="text" name="Nome">
+
+
+     <label for="">Email</label>
+    <input type="text" name="Email">
+     <label for="">Senha</label>
+    <input type="password" name="Senha">
+      <label for="">Equipe</label>
+    <select name="IdEquipes" id="IdEquipes">
+          <option value="0">Selecione uma equipe: </option>
+         @foreach (Equipes equipe in ViewBag.Equipes)
+        {
+            <option value="@equipe.IdEquipes">@equipe.Nome</option>
+        }</select>
+    
+    
+    
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+
+<table class="table table-striped table-responsive">
+    <thead>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Equipe</th>
+        <th>Ações</th>
+        
+    </thead>
+    <tbody>
+        @foreach (Jogador jogador in ViewBag.Jogador)
+        {
+            <tr>
+                <td>@jogador.IdJogador</td>
+                <td>@jogador.Nome</td>
+                <td>@jogador.Email</td>
+                <td><img src="/img/Equipes/@jogador.Equipes.Imagem" alt="Imagem da equipe @jogador.Equipes.Nome" width="50px"></td>
+                <td>
+                    <td>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador">Excluir</a>
+                </td>
+                <td>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Jogador" asp-action="Edit" asp-route-id="@jogador.IdJogador">Editar</a>
+                </td>
+                
+                
+                
+            </tr>
+        }
+
+    </tbody>
+</table>
+}
+
