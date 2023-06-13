@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-2\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj": {}
+    "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-3\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-2\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj": {
+    "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-3\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-2\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-3\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj",
         "projectName": "Projeto-Gamer-MVC",
-        "projectPath": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-2\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj",
+        "projectPath": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-3\\Projeto-Gamer-MVC\\Projeto-Gamer-MVC.csproj",
         "packagesPath": "C:\\Users\\43869817801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-2\\Projeto-Gamer-MVC\\obj\\",
+        "outputPath": "C:\\Users\\43869817801\\Desktop\\Primero-Semestre-SENAI\\beckend-3\\Projeto-Gamer-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\43869817801\\AppData\\Roaming\\NuGet\\NuGet.Config",
