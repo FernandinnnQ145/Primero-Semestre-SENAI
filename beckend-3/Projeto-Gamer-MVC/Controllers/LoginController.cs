@@ -60,7 +60,7 @@ namespace Projeto_Gamer_MVC.Controllers
         [Route("Logout")]
         public IActionResult Logout(){
             HttpContext.Session.Remove("UserName");
-            return LocalRedirect("~/");
+            return LocalRedirect("~/Login/Login");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
@@ -69,15 +69,15 @@ namespace Projeto_Gamer_MVC.Controllers
             return View("Error!");
         }
 
-        public override bool Equals(object? obj)
-        {
-            return obj is LoginController controller &&
-                   EqualityComparer<Context>.Default.Equals(c, controller.c);
-        }
+        // public override bool Equals(object? obj)
+        // {
+        //     return obj is LoginController controller &&
+        //            EqualityComparer<Context>.Default.Equals(c, controller.c);
+        // }
 
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(c);
-        }
+        // public override int GetHashCode()
+        // {
+        //     return HashCode.Combine(c);
+        // }
     }
 }

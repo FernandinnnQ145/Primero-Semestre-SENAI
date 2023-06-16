@@ -113,7 +113,7 @@ namespace Projeto_Gamer_MVC.Controllers
 
         public IActionResult Excluir(int id)
         {
-            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+            
 
             Equipes e = c.Equipes.First(e => e.IdEquipes == id);
 

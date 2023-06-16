@@ -8,6 +8,8 @@
 
 </head>
 <link rel="stylesheet" href="~/css/style.css">
+<link rel="stylesheet" href="~/css/header-footer.css">
+
 
 <body>
 
@@ -57,7 +59,7 @@
                             <a asp-controller="Login" asp-action="Logout">Logout</a>
                         }
 
-                        <a href="#">Notícias</a>
+                        <a href="~/#noticias">Notícias</a>
 
                         <a class="phone-box">
                             <img src="~/assets/phone-icon.png" alt="phone icon" title="Ícone Telefone">
@@ -84,13 +86,14 @@
                 <input type="checkbox" id="mostra-esconde-icones">
                 <div class="icons-header-bkg">
                     <div class="icons-header">
-                        <li>
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Login"
-                                asp-action="Index">Login</a>
+
+                        <a  asp-controller="Login" asp-action="Index">
                             <img src="~/assets/user-icon.svg" alt="user-login">
-                        </li>
+                        </a>
+
 
                         <img src="~/assets/market-icon.png" alt="market icon">
+                        
                         <img src="~/assets/search-icon.png" alt="search icon">
                     </div>
                 </div>
@@ -103,9 +106,9 @@
 
 
 
-   
-            @RenderBody()
-       
+
+    @RenderBody()
+
 
 
 
